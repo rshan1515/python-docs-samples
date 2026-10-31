@@ -27,7 +27,7 @@ cachetools==5.3.3
     # via
     #   apache-beam
     #   google-auth
-certifi==2024.7.4
+certifi==2026.10.18
     # via requests
 charset-normalizer==3.3.2
     # via requests
@@ -39,7 +39,7 @@ deprecated==1.2.14
     # via google-cloud-spanner
 dill==0.3.1.1
     # via apache-beam
-dnspython==2.6.1
+dnspython==2.9.0
     # via pymongo
 docopt==0.6.2
     # via hdfs
@@ -242,7 +242,7 @@ pyarrow==14.0.2
     # via apache-beam
 pyarrow-hotfix==0.6
     # via apache-beam
-pyasn1==0.5.1
+pyasn1==0.6.5
     # via
     #   oauth2client
     #   pyasn1-modules
@@ -257,7 +257,7 @@ pyfiglet==1.0.2
     # via my_package (pyproject.toml)
 pyjsparser==2.7.1
     # via js2py
-pymongo==4.6.3
+pymongo==4.18.3
     # via apache-beam
 pyparsing==3.1.1
     # via
